@@ -2,7 +2,7 @@
 
 
 import java.util.*;
-class holo {
+public class pattern {
     public static void main(String args[]){
        
 
